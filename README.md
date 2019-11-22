@@ -1,4 +1,4 @@
-# nginx-naxsi
+# nginx-naxsi-deb
 [NGINX](http://nginx.org/) deb package compiled with [NAXSI module](https://github.com/nbs-system/naxsi)
 
 This deb package is based on the official nginx mainline source code and compiled with the same ./configure options from NGINX deb package for UBUNTU with the addition of --add-module=naxsi.
