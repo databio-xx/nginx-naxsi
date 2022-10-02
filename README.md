@@ -5,4 +5,3 @@ This deb package is based on the official nginx mainline source code and compile
 
 NAXSI is a [WAF](https://en.wikipedia.org/wiki/Web_application_firewall) module for NGINX with features Anti [XSS](https://www.owasp.org/index.php/Cross-site_Scripting_%28XSS%29) & [SQL Injection](https://www.owasp.org/index.php/SQL_injection).
 
----------------------------------------
